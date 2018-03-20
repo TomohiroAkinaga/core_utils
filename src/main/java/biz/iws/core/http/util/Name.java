@@ -1,4 +1,4 @@
-package biz.iws.http.util;
+package biz.iws.core.http.util;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

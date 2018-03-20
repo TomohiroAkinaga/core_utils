@@ -1,4 +1,4 @@
-package biz.iws.reflection;
+package biz.iws.core.reflection;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;

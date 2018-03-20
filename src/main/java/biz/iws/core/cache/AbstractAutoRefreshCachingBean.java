@@ -1,4 +1,4 @@
-package biz.iws.cache;
+package biz.iws.core.cache;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;

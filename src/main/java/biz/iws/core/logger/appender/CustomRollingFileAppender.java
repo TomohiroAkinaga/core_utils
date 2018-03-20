@@ -1,4 +1,4 @@
-package biz.iws.logger.appender;
+package biz.iws.core.logger.appender;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;

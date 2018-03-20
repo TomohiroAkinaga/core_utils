@@ -1,4 +1,4 @@
-package biz.iws.http.util;
+package biz.iws.core.http.util;
 
 import java.io.UnsupportedEncodingException;
 import java.lang.reflect.Field;
@@ -12,7 +12,7 @@ import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import biz.iws.reflection.ReflectionUtils;
+import biz.iws.core.reflection.ReflectionUtils;
 
 /**
  * @author Tomohiro Akinaga
